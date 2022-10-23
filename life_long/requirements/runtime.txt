@@ -1,0 +1,17 @@
+matplotlib
+mmcv==1.0.3
+numpy
+# need older pillow until torchvision is fixed
+#Pillow<=6.2.2
+packaging
+six
+terminaltables
+sklearn
+tensorboard
+future
+tqdm
+pymongo==3.12.1
+gitpython
+einops
+tensorboardX
+timm
